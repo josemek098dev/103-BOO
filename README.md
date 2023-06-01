@@ -8,4 +8,4 @@ Este repositorio de ejemplo es un proyecto de una web realizada con bootstrap.
 
 Puedes acceder aqui para ver la aplicacion 👇
 
-[🐶 ToDo](https://josemek098dev.github.io/103-BOO/)
+[🐶 TimDog](https://josemek098dev.github.io/103-BOO/)
